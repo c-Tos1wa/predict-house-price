@@ -8,25 +8,25 @@ Criar um algoritmo que possa prever o valor de um aluguel temporário em Nova Io
 
 1. Pré-requisitos
 
-'''
+```
 python 3.9
 pyenv
 poetry
-'''
+```
 
 2. Instalação
 
 Clonar o repositório, usando o comando
 
-'''
+```
 git clone git@github.com:c-Tos1wa/predict-house-price.git
-'''
+```
 
 Após o clone, dentro da pasta criada
 
-'''
+```
 poetry install
-'''
+```
 
 ### Ferramentas
 
