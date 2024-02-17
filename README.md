@@ -19,7 +19,7 @@ poetry
 Clonar o repositório, usando o comando
 
 '''
-git clone git@github.com:c-Tos1wa/predict_price.git
+git clone git@github.com:c-Tos1wa/predict-house-price.git
 '''
 
 Após o clone, dentro da pasta criada
@@ -30,9 +30,11 @@ poetry install
 
 ### Ferramentas
 
-* [Pandas](https://pandas.pydata.org/)
 * [Geopandas](https://geopandas.org/en/stable/docs.html)
+* [Joblib](https://joblib.readthedocs.io/en/stable/)
 * [Matplotlib](https://matplotlib.org/stable/)
+* [Pandas](https://pandas.pydata.org/)
+* [Pickle](https://docs.python.org/3/library/pickle.html)
 * [Seaborn](https://seaborn.pydata.org/index.html)
 * [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
